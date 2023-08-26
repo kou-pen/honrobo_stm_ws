@@ -1,0 +1,40 @@
+2023-07-06 17:20:58,913 [INFO] Activator:176 - 
+
+
+2023-07-06 17:20:58,917 [INFO] Activator:177 - !SESSION log4j initialized
+2023-07-06 17:21:02,616 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-07-06 17:21:03,153 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:21:03,217 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:21:03,248 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:21:23,541 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-07-06 17:21:23,542 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-07-06 17:21:23,542 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-07-06 17:21:31,031 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:21:31,068 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:21:31,107 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:21:31,396 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:21:31,434 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:21:31,482 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:48:22,182 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:48:22,242 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:48:22,265 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:48:22,439 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:48:22,449 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:48:22,503 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:49:29,724 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:49:29,750 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:49:29,759 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:49:29,869 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:49:29,915 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 17:49:30,016 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 18:24:59,042 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 18:24:59,051 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 18:24:59,059 [ERROR] ConfigurationRetriever:142 - IOException on connection: Received fatal alert: handshake_failure
+2023-07-06 22:53:25,136 [INFO] Activator:176 - 
+
+
+2023-07-06 22:53:25,138 [INFO] Activator:177 - !SESSION log4j initialized
+2023-07-06 22:53:28,770 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-07-06 22:53:49,867 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-07-06 22:53:49,868 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-07-06 22:53:49,868 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.

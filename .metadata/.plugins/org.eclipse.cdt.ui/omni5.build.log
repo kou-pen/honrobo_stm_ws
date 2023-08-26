@@ -1,0 +1,21 @@
+12:46:36 **** Incremental Build of configuration Debug for project omni5 ****
+make -j12 all 
+arm-none-eabi-g++ "../Core/Src/main.cpp" -mcpu=cortex-m4 -std=gnu++14 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -fno-exceptions -fno-rtti -fno-use-cxa-atexit -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.cpp: In function 'void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef*)':
+../Core/Src/main.cpp:539:11: warning: variable 'dlc' set but not used [-Wunused-but-set-variable]
+  539 |  uint32_t dlc;
+      |           ^~~
+arm-none-eabi-g++ -o "omni5.elf" @"objects.list"   -mcpu=cortex-m4 -T"/home/kohki/HONROBO_WS_2/omni5/STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="omni5.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Finished building target: omni5.elf
+ 
+arm-none-eabi-size   omni5.elf 
+arm-none-eabi-objdump -h -S  omni5.elf  > "omni5.list"
+   text	   data	    bss	    dec	    hex	filename
+  21076	     24	   1824	  22924	   598c	omni5.elf
+Finished building: default.size.stdout
+ 
+Finished building: omni5.list
+ 
+
+12:46:37 Build Finished. 0 errors, 1 warnings. (took 581ms)
+

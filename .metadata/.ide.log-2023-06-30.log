@@ -1,0 +1,9 @@
+2023-06-30 17:51:19,940 [INFO] Activator:176 - 
+
+
+2023-06-30 17:51:19,943 [INFO] Activator:177 - !SESSION log4j initialized
+2023-06-30 17:51:23,410 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-06-30 17:51:44,134 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2023-06-30 17:51:44,135 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: Defaulting to no-operation (NOP) logger implementation
+2023-06-30 17:51:44,135 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2023-06-30 18:23:48,986 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] SWT SessionManagerDBus: Failed to UnregisterClient: 接続が閉じています
